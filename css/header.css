@@ -1,0 +1,10 @@
+@media(min-width: 992px){
+    .clock {
+        display: flex;
+        justify-content: center;
+    }
+    .navbar-collapse {
+        flex: none;
+        justify-content: end;
+    }
+}
