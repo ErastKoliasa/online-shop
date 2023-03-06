@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Contact Socks",
+        "image": "contact2022_01.webp",
+        "description": "Unisex cotton socks",
+        "price": 3.99
+    },
+    {
+        "id": "2",
+        "title": "Copy Paste Socks",
+        "image": "copy_paste_01.webp",
+        "description": "Unisex cotton socks",
+        "price": 2.99
+    },
+    {
+        "id": "3",
+        "title": "Let it burn",
+        "image": "rusni_pzd_01_1.webp",
+        "description": "Unisex cotton socks",
+        "price": 6.99
+    },
+    {
+        "id": "4",
+        "title": "Skovoroda",
+        "image": "skovoroda_01_1.webp",
+        "description": "Unisex cotton socks",
+        "price": 5.99
+    }
+]
